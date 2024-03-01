@@ -61,6 +61,8 @@ This project is hosted at [https://github.com/lloesche/valheim-server-docker](ht
 * [Legal disclaimer](#legal-disclaimer)
 <!-- vim-markdown-toc -->
 
+# Forked changes
+Updated the docker-compose.yml file to use this docker image with an NFS share.
 
 # Basic Docker Usage
 
